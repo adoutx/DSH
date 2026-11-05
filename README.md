@@ -1,3 +1,3 @@
 # DSH
 
-workspace for the `dsh-superagent` prototype
+workspace for the `dsh-superagent` prototype.
