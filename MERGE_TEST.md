@@ -1,0 +1,1 @@
+merge CLI smoke test
